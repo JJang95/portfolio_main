@@ -2,8 +2,8 @@ import React from 'react'
 import './about.css'
 import ME from '../../assets/me-about.jpg'
 import {FaAward} from 'react-icons/fa'
-import {FiUsers} from 'react-icons/fi'
-import {VscFolderLibrary} from 'react-icons/vsc'
+import {TbMap2} from 'react-icons/tb'
+import {MdOutlineSchool} from 'react-icons/md'
 
 
 const About = () => {
@@ -21,6 +21,13 @@ const About = () => {
 
                 <div className="about__content">
                     <div className="about__cards">
+
+                        <article className='about__card'>
+                            <MdOutlineSchool className='about__icon' />
+                            <h5>Education</h5>
+                            <small>Bachelors from New Jersey Institute of Technology</small>
+                        </article>
+
                         <article className='about__card'>
                             <FaAward className='about__icon' />
                             <h5>Experience</h5>
@@ -28,21 +35,16 @@ const About = () => {
                         </article>
 
                         <article className='about__card'>
-                            <FiUsers className='about__icon' />
-                            <h5>Clients</h5>
-                            <small>5+ Small businesses</small>
-                        </article>
-
-                        <article className='about__card'>
-                            <VscFolderLibrary className='about__icon' />
-                            <h5>Projects</h5>
-                            <small>10+ personal projects utilizing full-stack languages</small>
+                            <TbMap2 className='about__icon' />
+                            <h5>Location</h5>
+                            <small>New York Tri State Area</small>
                         </article>
                     </div>
 
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Est similique veritatis incidunt quas nobis 
-                        sit accusantium commodi, odit consequatur minus, at soluta? Voluptate perferendis odit, nostrum rem 
-                        eligendi expedita molestiae?
+                    <p>
+                    Hi there, I'm a full stack developer with two years of experience in building web applications. 
+                    I graduated from NJIT back in 2018 and currently based in New York. 
+                    With my technical skills and passion for programming, I am eager to take on new challenges.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
