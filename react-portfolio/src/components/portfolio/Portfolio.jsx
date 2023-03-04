@@ -19,8 +19,10 @@ const Portfolio = () => {
                         <img src={IMG1} alt="p1" />
                     </div>
                     <h3>Portfolio item</h3>
-                    <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
-                    <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    <div className="portfolio__item-cta">
+                        <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
+                        <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    </div>
                 </article>
 
                 <article className="portfolio__item">
@@ -28,8 +30,10 @@ const Portfolio = () => {
                         <img src={IMG2} alt="p2" />
                     </div>
                     <h3>Portfolio item</h3>
-                    <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
-                    <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    <div className="portfolio__item-cta">
+                        <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
+                        <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    </div>
                 </article>
 
                 <article className="portfolio__item">
@@ -37,8 +41,10 @@ const Portfolio = () => {
                         <img src={IMG3} alt="p3" />
                     </div>
                     <h3>Portfolio item</h3>
-                    <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
-                    <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    <div className="portfolio__item-cta">
+                        <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
+                        <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    </div>
                 </article>
 
                 <article className="portfolio__item">
@@ -46,8 +52,10 @@ const Portfolio = () => {
                         <img src={IMG4} alt="p4" />
                     </div>
                     <h3>Portfolio item</h3>
-                    <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
-                    <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    <div className="portfolio__item-cta">
+                        <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
+                        <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    </div>
                 </article>
 
                 <article className="portfolio__item">
@@ -55,8 +63,13 @@ const Portfolio = () => {
                         <img src={IMG5} alt="p5" />
                     </div>
                     <h3>Portfolio item</h3>
-                    <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
-                    <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    <div className="portfolio__item-cta">
+                        
+                    </div>
+                    <div className="portfolio__item-cta">
+                        <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
+                        <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    </div>
                 </article>
 
                 <article className="portfolio__item">
@@ -64,8 +77,10 @@ const Portfolio = () => {
                         <img src={IMG6} alt="p6" />
                     </div>
                     <h3>Portfolio item</h3>
-                    <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
-                    <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    <div className="portfolio__item-cta">
+                        <a href="https://github.com/JJang95" className='btn' target='_blank' rel="noreferrer">Github</a>
+                        <a href="https://github.com/JJang95" className='btn btn-primary' target='_blank' rel="noreferrer">Live Demo</a>
+                    </div>
                 </article>
             </div>
         </section>
