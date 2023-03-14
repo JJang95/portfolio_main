@@ -12,14 +12,14 @@ const data = [
         image: IMG1,
         title: 'Personal Portfolio',
         github: 'https://github.com/JJang95/portfolio_main',
-        demo: 'https://github.com/JJang95'
+        demo: 'https://jonathanjang.netlify.app/'
     },
     {
         id: 2,
         image: IMG2,
         title: 'Video Game Database',
         github: 'https://github.com/JJang95/video-game-db',
-        demo: 'https://github.com/JJang95'
+        demo: 'https://fastidious-raindrop-598fe7.netlify.app/'
     },
     {
         id: 3,
@@ -33,7 +33,7 @@ const data = [
         image: IMG4,
         title: 'Recipe database',
         github: 'https://github.com/JJang95/Recipe_guide',
-        demo: 'https://github.com/JJang95'
+        demo: 'https://aquamarine-sherbet-c5353d.netlify.app/'
     },
 ]
 
