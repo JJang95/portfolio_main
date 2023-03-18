@@ -12,4 +12,16 @@ EXPERIENCE
 
 ![image](https://user-images.githubusercontent.com/118594101/226083537-627d5552-f2c1-4add-88b7-f63182d869a6.png)
 
+PORTFOLIO
+
+![image](https://user-images.githubusercontent.com/118594101/226083565-1df50c78-b016-47a6-bf6e-10dd52c7b8cf.png)
+
+CONTACT
+
+![image](https://user-images.githubusercontent.com/118594101/226083579-dfa4b300-ccc3-4bdc-aae6-a3c98aa2c762.png)
+
+FOOTER
+
+![image](https://user-images.githubusercontent.com/118594101/226083604-ff924725-0d6a-453d-ace6-d4e0681f1206.png)
+
 
